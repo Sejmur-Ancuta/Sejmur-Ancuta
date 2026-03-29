@@ -1,58 +1,60 @@
 # Hi there! I'm Sejmur 👋
 
-🎓 **CS Master's Student | Technical QA Specialist | IT Support Analyst | Warsaw, Poland**
+🚀 **Technical QA Engineer | IT Support Specialist | Game Developer | Warsaw, Poland**
 
-I am a Computer Science Master's student bridging the gap between technical architecture and user experience. I specialize in Quality Assurance, IT Support, and interactive technologies. By leveraging my academic background and modern AI tools, I focus on solving complex technical problems, optimizing workflows, and ensuring enterprise systems (and games!) run flawlessly.
+I am a Computer Science professional and technical problem-solver specializing in Quality Assurance, IT Operations, and interactive software development. Armed with a strong academic foundation (CS Post-Graduate) and a passion for modern AI integrations, I bridge the gap between technical architecture and flawless user experience. I don't just find bugs; I analyze systems, optimize workflows, and deliver stable, high-quality products.
 
-📫 **Email:** [SeninMailin@gmail.com]
-🔗 **LinkedIn:** [LinkedIn Profil Linkin]
+📫 **Email:** ancutaseymur79@gmail.com
+🔗 **LinkedIn:** [LinkedIn Profil Linkin Buraya]
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Core Competencies
 
 <details>
-  <summary>🐞 <b>Technical QA & Testing</b></summary>
+  <summary>🐞 <b>Quality Assurance & Software Testing</b></summary>
   <ul>
-    <li>Manual & Exploratory Testing</li>
-    <li>Edge-case Identification & Root-cause Analysis</li>
-    <li>Bug Lifecycle Management (Jira)</li>
-    <li>Writing Comprehensive Test Documentation & Test Plans</li>
+    <li><b>Manual & Exploratory Testing:</b> Comprehensive UI/UX testing and edge-case identification.</li>
+    <li><b>Bug Lifecycle Management:</b> Defect tracking, root-cause analysis, and reporting via <b>Jira</b>.</li>
+    <li><b>Technical Testing:</b> Log analysis, API behavior testing (Postman basics), and regression testing.</li>
+    <li><b>Documentation:</b> Creating detailed Test Plans, Test Cases, and release documentation.</li>
   </ul>
 </details>
 
 <details>
-  <summary>⚙️ <b>IT Support & Operations</b></summary>
+  <summary>⚙️ <b>IT Support & System Operations</b></summary>
   <ul>
-    <li>System Troubleshooting & Technical Issue Resolution</li>
-    <li>Software Implementation & End-User Support</li>
-    <li>Agile/Scrum Methodologies & Cross-functional Communication</li>
+    <li><b>System Troubleshooting:</b> Identifying and resolving complex technical issues for end-users and enterprise software.</li>
+    <li><b>Database & Logic:</b> Basic SQL for data verification and system troubleshooting.</li>
+    <li><b>Software Implementation:</b> Application deployment, configuration, and providing technical support.</li>
+    <li><b>Workflow Optimization:</b> Utilizing Agile/Scrum methodologies for efficient cross-functional communication.</li>
   </ul>
 </details>
 
 <details>
-  <summary>🎮 <b>Game Development & Tech Art</b></summary>
+  <summary>🎮 <b>Game Development & Technical Art</b></summary>
   <ul>
-    <li>Building 2D Adventure & Retro FPS Projects (Godot / Unity)</li>
-    <li>VFX & Motion Graphics (Adobe After Effects)</li>
-    <li>AI Prompt Engineering for Rapid Prototyping & Script Generation</li>
+    <li><b>3D Engine Prototyping (Python/Pygame):</b> Developed a custom 3D game environment utilizing spatial mathematics, rendering logic, and Python-based mechanics.</li>
+    <li><b>2D Game Development:</b> Building adventure and retro FPS projects focusing on player mechanics and physics (Godot/Unity).</li>
+    <li><b>Visuals & Tech Art:</b> VFX creation and motion graphics integration using Adobe After Effects.</li>
+    <li><b>AI Workflow Integration:</b> Prompt engineering for rapid prototyping, logic scripting, and asset generation.</li>
   </ul>
 </details>
 
 <details>
-  <summary>💻 <b>Tools & General Knowledge</b></summary>
+  <summary>💻 <b>Tools, Frameworks & Methodologies</b></summary>
   <ul>
-    <li><b>Tracking & Management:</b> Jira, Trello, Slack</li>
-    <li><b>Version Control:</b> Git, GitHub</li>
-    <li><b>Methodologies:</b> Agile, QA Lifecycles, Software Development Life Cycle (SDLC)</li>
+    <li><b>Management & Tracking:</b> Jira, Trello, Confluence, Slack</li>
+    <li><b>Version Control & Repositories:</b> Git, GitHub</li>
+    <li><b>Development Concepts:</b> Object-Oriented Programming (OOP), Software Development Life Cycle (SDLC), Agile (Scrum/Kanban)</li>
   </ul>
 </details>
 
 ---
 
 ## 🎯 What I Bring to the Table
-I thrive in dynamic, cross-functional environments where I can focus on product quality, system implementation, and high-level problem-solving rather than traditional back-end software engineering. I am a strong communicator who loves hunting down bugs and improving user experiences.
+I thrive in dynamic, cross-functional environments where I can leverage my problem-solving skills to ensure product quality and seamless system implementation. Rather than sticking to traditional back-end coding, I excel at the intersection of logic, design, and user experience. I am a strong communicator who loves hunting down critical system flaws and elevating the final product.
 
-📌 **Actively Looking For:** Junior/Mid roles in **QA Engineering, IT/Application Support, Implementation Consulting, or Technical Game Testing** based in Warsaw (Hybrid/On-site).
+📌 **Actively Looking For:** Junior/Mid-level roles in **QA Engineering, IT/Application Support, Implementation Consulting, or Technical Game Testing** based in Warsaw (Hybrid/On-site).
 
 🇪🇺 **Note for Recruiters:** Full working rights in Poland (No visa sponsorship required).
