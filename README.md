@@ -1,8 +1,9 @@
 # Hi there! I'm Sejmur 👋
 
-🚀 **Technical QA Engineer | IT Support Specialist | Game Developer | Warsaw, Poland**
+🚀 **Technical QA Engineer | IT Support Specialist | Game Developer | Warsaw**
+🇵🇱 **Polish Citizen** (No visa sponsorship required)
 
-I am a Computer Science professional and technical problem-solver specializing in Quality Assurance, IT Operations, and interactive software development. Armed with a strong academic foundation (CS Post-Graduate) and a passion for modern AI integrations, I bridge the gap between technical architecture and flawless user experience. I don't just find bugs; I analyze systems, optimize workflows, and deliver stable, high-quality products.
+I am a Computer Science professional with a passion for Quality Assurance, IT Operations, and Game Development. Armed with a strong academic foundation (CS Post-Graduate) and modern AI tools, I love finding out *why* things break and figuring out how to fix them. 
 
 📫 **Email:** ancutaseymur79@gmail.com
 🔗 **LinkedIn:** [LinkedIn Profil Linkin Buraya]
@@ -34,7 +35,7 @@ I am a Computer Science professional and technical problem-solver specializing i
 <details>
   <summary>🎮 <b>Game Development & Technical Art</b></summary>
   <ul>
-    <li><b>3D Engine Prototyping (Python/Pygame):</b> Developed a custom 3D game environment utilizing spatial mathematics, rendering logic, and Python-based mechanics.</li>
+    <li><b>3D Engine Prototyping (Python/Pygame):</b> Developed a custom 3D game environment utilizing spatial mathematics and rendering logic.</li>
     <li><b>2D Game Development:</b> Building adventure and retro FPS projects focusing on player mechanics and physics (Godot/Unity).</li>
     <li><b>Visuals & Tech Art:</b> VFX creation and motion graphics integration using Adobe After Effects.</li>
     <li><b>AI Workflow Integration:</b> Prompt engineering for rapid prototyping, logic scripting, and asset generation.</li>
@@ -53,8 +54,6 @@ I am a Computer Science professional and technical problem-solver specializing i
 ---
 
 ## 🎯 What I Bring to the Table
-I thrive in dynamic, cross-functional environments where I can leverage my problem-solving skills to ensure product quality and seamless system implementation. Rather than sticking to traditional back-end coding, I excel at the intersection of logic, design, and user experience. I am a strong communicator who loves hunting down critical system flaws and elevating the final product.
+I am a technical problem-solver who loves breaking systems (so they can be fixed!) and ensuring software runs perfectly. Instead of writing heavy back-end code all day, I prefer being the bridge between complex logic and a flawless user experience. I enjoy hunting down bugs, supporting users, and optimizing digital products.
 
-📌 **Actively Looking For:** Junior/Mid-level roles in **QA Engineering, IT/Application Support, Implementation Consulting, or Technical Game Testing** based in Warsaw (Hybrid/On-site).
-
-🇪🇺 **Note for Recruiters:** Full working rights in Poland (No visa sponsorship required).
+📌 **Actively Looking For:** **Internship & Junior roles** in QA Engineering, IT/Application Support, Implementation Consulting, or Technical Game Testing based in Warsaw (Hybrid/On-site).
