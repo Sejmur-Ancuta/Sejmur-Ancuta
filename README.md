@@ -3,7 +3,7 @@
 🚀 **Technical QA Engineer | IT Support Specialist | Game Developer | Warsaw**
 🇵🇱 **Polish Citizen** (No visa sponsorship required)
 
-I am a Computer Science professional with a passion for Quality Assurance, IT Operations, and Game Development. Armed with a strong academic foundation (CS Post-Graduate) and modern AI tools, I love finding out *why* things break and figuring out how to fix them. 
+I am a Computer Science professional specializing in Quality Assurance, IT Operations, and Game Development. Equipped with a CS Post-Graduate background and expertise in modern AI-driven workflows, I focus on delivering seamless, bug-free digital experiences across enterprise systems and interactive media.
 
 📫 **Email:** ancutaseymur79@gmail.com
 🔗 **LinkedIn:** [LinkedIn Profil Linkin Buraya]
@@ -54,6 +54,6 @@ I am a Computer Science professional with a passion for Quality Assurance, IT Op
 ---
 
 ## 🎯 What I Bring to the Table
-I am a technical problem-solver who loves breaking systems (so they can be fixed!) and ensuring software runs perfectly. Instead of writing heavy back-end code all day, I prefer being the bridge between complex logic and a flawless user experience. I enjoy hunting down bugs, supporting users, and optimizing digital products.
+I excel at the intersection of system logic and user experience. My core strength lies in identifying critical vulnerabilities, optimizing workflows, and bridging the gap between development teams and end-users. I take a holistic approach to system stability, ensuring that every product I touch—whether an enterprise application or a game—is polished, robust, and ready for deployment.
 
 📌 **Actively Looking For:** **Internship & Junior roles** in QA Engineering, IT/Application Support, Implementation Consulting, or Technical Game Testing based in Warsaw (Hybrid/On-site).
