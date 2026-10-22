@@ -1,59 +1,60 @@
+
 # Hi there! I'm Sejmur 👋
 
-🚀 **Technical QA Engineer | IT Support Specialist | Game Developer | Warsaw**
-🇵🇱 **Polish Citizen** (No visa sponsorship required)
+🚀 IT Support & Operations | QA & Manual Testing | Business Operations Support | Warsaw 🇵🇱 Polish Citizen (No visa sponsorship required)
 
-I am a Computer Science professional specializing in Quality Assurance, IT Operations, and Game Development. Equipped with a CS Post-Graduate background and expertise in modern AI-driven workflows, I focus on delivering seamless, bug-free digital experiences across enterprise systems and interactive media.
+I have a Computer Science background and experience in day-to-day IT support, data organization, and documentation. I'm interested in entry-level roles that combine technology, problem-solving, attention to detail, and communication. My main areas of interest are IT/Application Support, QA & Manual Testing, and Business/Operations Support.
 
-📫 **Email:** ancutaseymur79@gmail.com
-🔗 **LinkedIn:** [LinkedIn Profil Linkin Buraya]
+📫 Email: [ancutaseymur79@gmail.com](mailto:ancutaseymur79@gmail.com) 🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/seymur-ancuta-a10116406/)
 
 ---
 
 ## 🛠️ Tech Stack & Core Competencies
 
 <details>
-  <summary>🐞 <b>Quality Assurance & Software Testing</b></summary>
-  <ul>
-    <li><b>Manual & Exploratory Testing:</b> Comprehensive UI/UX testing and edge-case identification.</li>
-    <li><b>Bug Lifecycle Management:</b> Defect tracking, root-cause analysis, and reporting via <b>Jira</b>.</li>
-    <li><b>Technical Testing:</b> Log analysis, API behavior testing (Postman basics), and regression testing.</li>
-    <li><b>Documentation:</b> Creating detailed Test Plans, Test Cases, and release documentation.</li>
-  </ul>
+<summary>🐞 Quality Assurance & Software Testing</summary>
+
+- Manual and exploratory testing
+- Identifying issues and documenting bugs
+- Basic debugging through personal projects
+- Checking application behaviour and user experience
+
 </details>
 
 <details>
-  <summary>⚙️ <b>IT Support & System Operations</b></summary>
-  <ul>
-    <li><b>System Troubleshooting:</b> Identifying and resolving complex technical issues for end-users and enterprise software.</li>
-    <li><b>Database & Logic:</b> Basic SQL for data verification and system troubleshooting.</li>
-    <li><b>Software Implementation:</b> Application deployment, configuration, and providing technical support.</li>
-    <li><b>Workflow Optimization:</b> Utilizing Agile/Scrum methodologies for efficient cross-functional communication.</li>
-  </ul>
+<summary>⚙️ IT Support & System Operations</summary>
+
+- Basic hardware and software troubleshooting
+- Organizing information and maintaining documentation
+- Supporting day-to-day IT tasks and team workflows
+- Structured problem-solving and issue reporting
+
 </details>
 
 <details>
-  <summary>🎮 <b>Game Development & Technical Art</b></summary>
-  <ul>
-    <li><b>3D Engine Prototyping (Python/Pygame):</b> Developed a custom 3D game environment utilizing spatial mathematics and rendering logic.</li>
-    <li><b>2D Game Development:</b> Building adventure and retro FPS projects focusing on player mechanics and physics (Godot/Unity).</li>
-    <li><b>Visuals & Tech Art:</b> VFX creation and motion graphics integration using Adobe After Effects.</li>
-    <li><b>AI Workflow Integration:</b> Prompt engineering for rapid prototyping, logic scripting, and asset generation.</li>
-  </ul>
+<summary>🎮 Personal Projects: Game Development</summary>
+
+- Personal projects built with Godot and Python/Pygame
+- Experience exploring game mechanics, application behaviour, and debugging
+- Projects that helped develop technical problem-solving and testing skills
+
 </details>
 
 <details>
-  <summary>💻 <b>Tools, Frameworks & Methodologies</b></summary>
-  <ul>
-    <li><b>Management & Tracking:</b> Jira, Trello, Confluence, Slack</li>
-    <li><b>Version Control & Repositories:</b> Git, GitHub</li>
-    <li><b>Development Concepts:</b> Object-Oriented Programming (OOP), Software Development Life Cycle (SDLC), Agile (Scrum/Kanban)</li>
-  </ul>
+<summary>💻 Tools, Frameworks & Methodologies</summary>
+
+- Microsoft Excel: basic proficiency, data organization, and basic formulas/functions
+- GitHub: personal project repositories
+- Godot and GDScript: experience through personal projects
+- Python and Pygame: experience through personal projects
+- Documentation, issue tracking, and structured task follow-up
+
 </details>
 
 ---
 
 ## 🎯 What I Bring to the Table
-I excel at the intersection of system logic and user experience. My core strength lies in identifying critical vulnerabilities, optimizing workflows, and bridging the gap between development teams and end-users. I take a holistic approach to system stability, ensuring that every product I touch—whether an enterprise application or a game—is polished, robust, and ready for deployment.
 
-📌 **Actively Looking For:** **Internship & Junior roles** in QA Engineering, IT/Application Support, Implementation Consulting, or Technical Game Testing based in Warsaw (Hybrid/On-site).
+I take a careful, organized approach to checking information, identifying issues, documenting findings, and supporting daily workflows. I'm interested in roles where I can combine technology with business processes, help users and teams, maintain accurate information, and make sure tasks are followed through.
+
+📌 **Actively Looking For:** Entry-level and Junior roles in Order Management, Customer/Business Operations, IT/Application Support, and QA/Manual Testing based in Warsaw (Hybrid/On-site).
