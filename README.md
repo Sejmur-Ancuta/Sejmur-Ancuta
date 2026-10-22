@@ -1,11 +1,11 @@
 
 # Hi there! I'm Sejmur 👋
 
-🚀 IT Support & Operations | QA & Manual Testing | Business Operations Support | Warsaw 🇵🇱 Polish Citizen (No visa sponsorship required)
+🚀 IT Support & Operations | QA & Manual Testing | Business Operations | Warsaw 🇵🇱 Polish Citizen (No visa sponsorship required)
 
-I have a Computer Science background and experience in day-to-day IT support, data organization, and documentation. I'm interested in entry-level roles that combine technology, problem-solving, attention to detail, and communication. My main areas of interest are IT/Application Support, QA & Manual Testing, and Business/Operations Support.
+I'm a Computer Science graduate based in Warsaw with experience in day-to-day IT support, data organization, and documentation. I’m interested in combining my IT background with practical business tasks, helping teams resolve issues, keeping information accurate, and supporting smooth daily operations. I'm open to entry-level opportunities in IT/Application Support, Manual QA, and Business/Operations Support.
 
-📫 Email: [ancutaseymur79@gmail.com](mailto:ancutaseymur79@gmail.com) 🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/seymur-ancuta-a10116406/)
+📫 Email: [ancutaseymur79@gmail.com](mailto:ancutaseymur79@gmail.com) | 🔗 LinkedIn: [seymur-ancuta](https://www.linkedin.com/in/seymur-ancuta-a10116406/)
 
 ---
 
@@ -14,40 +14,40 @@ I have a Computer Science background and experience in day-to-day IT support, da
 <details>
 <summary>🐞 Quality Assurance & Software Testing</summary>
 
-- Manual and exploratory testing
-- Identifying issues and documenting bugs
-- Basic debugging through personal projects
-- Checking application behaviour and user experience
+- Manual and exploratory testing through personal projects
+- Identifying unexpected behaviour and documenting issues
+- Basic debugging and checking application behaviour
+- Focus on usability, consistency, and clear issue reporting
 
 </details>
 
 <details>
-<summary>⚙️ IT Support & System Operations</summary>
+<summary>⚙️ IT Support & Operations</summary>
 
 - Basic hardware and software troubleshooting
-- Organizing information and maintaining documentation
-- Supporting day-to-day IT tasks and team workflows
-- Structured problem-solving and issue reporting
+- Data organization and information accuracy checks
+- Documentation and reporting to support daily workflows
+- Practical problem-solving and task follow-up
 
 </details>
 
 <details>
 <summary>🎮 Personal Projects: Game Development</summary>
 
-- Personal projects built with Godot and Python/Pygame
-- Experience exploring game mechanics, application behaviour, and debugging
-- Projects that helped develop technical problem-solving and testing skills
+- Personal projects using Godot and Python/Pygame
+- Hands-on experience exploring game mechanics and application behaviour
+- Project work involving testing, debugging, and problem-solving
 
 </details>
 
 <details>
 <summary>💻 Tools, Frameworks & Methodologies</summary>
 
-- Microsoft Excel: basic proficiency, data organization, and basic formulas/functions
+- Microsoft Excel: basic proficiency in data organization and basic formulas
 - GitHub: personal project repositories
-- Godot and GDScript: experience through personal projects
-- Python and Pygame: experience through personal projects
-- Documentation, issue tracking, and structured task follow-up
+- Godot and GDScript: personal project experience
+- Python and Pygame: personal project experience
+- Documentation, issue reporting, and structured task follow-up
 
 </details>
 
@@ -55,6 +55,6 @@ I have a Computer Science background and experience in day-to-day IT support, da
 
 ## 🎯 What I Bring to the Table
 
-I take a careful, organized approach to checking information, identifying issues, documenting findings, and supporting daily workflows. I'm interested in roles where I can combine technology with business processes, help users and teams, maintain accurate information, and make sure tasks are followed through.
+My background combines IT knowledge with practical experience organizing data, supporting daily tasks, and documenting work. I value clear communication, attention to detail, and a structured approach to solving problems. I'm looking to build my career in a role where I can support users or business teams, learn company tools and processes, and contribute reliably from day one.
 
-📌 **Actively Looking For:** Entry-level and Junior roles in Order Management, Customer/Business Operations, IT/Application Support, and QA/Manual Testing based in Warsaw (Hybrid/On-site).
+📌 **Actively Looking For:** Entry-level / Junior roles in Order Management, Customer Operations, Business Operations, IT/Application Support, and Manual QA in Warsaw (Hybrid/On-site).
